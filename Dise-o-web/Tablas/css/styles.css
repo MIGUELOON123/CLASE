@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.map{
+    width: 80%;
+    height: 450px;
+    
+}
+.wiki{
+    margin-top: auto;
+    width: auto;
+    height: auto;
+}
